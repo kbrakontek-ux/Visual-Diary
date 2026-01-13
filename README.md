@@ -1,1 +1,1 @@
-# Visual-Diary Etkileşimli Günlük projemi deneyimlemek için zip dosyasını indirebilirsiniz. Dosyanın içinden html dosyası ve videoları bulabilirsiniz.
+Etkileşimli Günlük projemi deneyimlemek için zip dosyasını indirebilirsiniz. Dosyanın içinden html dosyası ve videoları bulabilirsiniz.
